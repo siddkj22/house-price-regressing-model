@@ -1,3 +1,3 @@
 # house-price-regressing-model
-A machine learning model predict house prices by thier location, no of rooms , and total square feet
-Implemented technologies such as Numpy, Pandas, Matplotlib
+Developed a machine learning model that predict house prices by there location, no of rooms, no of bathrooms, room sizes and total square feet of house.
+Implemented technologies such as Numpy, Pandas, Matplotlib.
